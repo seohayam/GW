@@ -1,0 +1,12 @@
+#daimei>hr{
+    background: aquamarine!important;
+}
+body{
+    background-image: url(../img/diego-ph-5LOhydOtTKU-unsplash.jpg)!important;
+    background-position: center!important;
+    background-size: cover!important;
+    color: beige;
+}
+th,td,#enw,#knownwords{
+    color: beige;
+}
